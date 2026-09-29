@@ -7,7 +7,7 @@ $waktu = date('d-m-Y H:i:s');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Sistem Inventaris Laboratorium - Aplikasi praktikum Rekayasa Perangkat Lunak.">
+    <meta name="description" content="Sistem Inventaris Laboratorium - Aplikasi Praktik Rekayasa Perangkat Lunak.">
     <title><?= htmlspecialchars($namaAplikasi) ?></title>
 
         <link rel="stylesheet" href="css/style.css">
